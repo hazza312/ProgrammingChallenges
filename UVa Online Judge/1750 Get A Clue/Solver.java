@@ -51,6 +51,8 @@ public class Solver {
             return;
         }
 
+        // try all cards of given cardtype as the solution ("player 0").
+        // recurse, eventually dealing other cards to players to check if the solution is consistent. 
         for (curr[cardType] = CARD_RANGE_START[cardType]; curr[cardType] < CARD_RANGE_START[cardType+1]; curr[cardType]++) {
             if (game.tryAllocate(curr[cardType], 0)) {
                 solve(cardType +1, solution, curr);
