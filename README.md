@@ -8,7 +8,12 @@
 ### 2020
 |Problem|Solve Date|Note|
 |-|-|-|
-|[Get a Clue](https://onlinejudge.org/external/17/1750.pdf)     |04/20 Java|       UVa 1750     |
+|[Get a Clue](https://onlinejudge.org/external/17/1750.pdf)     |04/20 Java|       UVa 1750. Tricky!     |
+|[Australian Voting](https://onlinejudge.org/external/101/10142.pdf)     |04/20 Python3|       UVa 10142     |
+|[The Stern-Brocot Number System](https://onlinejudge.org/external/100/10077.pdf)     |04/20 Python3|       UVa 10077     |
+|[Check the Check](https://onlinejudge.org/external/101/10196.pdf)     |04/20 Python3|       UVa 10196     |
+|[Poker Hands](https://onlinejudge.org/external/103/10315.pdf)     |04/20 Python3|       UVa 10315     |
+|[Interpreter](https://onlinejudge.org/external/100/10033.pdf)     |03/20 Python3|       UVa 10033     |
 
 ### 2018
 |Problem|Solve Date|Note|
